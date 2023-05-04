@@ -1,11 +1,3 @@
-# This repo contains ML models from scratch in Python using just NumPy and Pandas. 
-
-
-Linear Regressor:: 
-<br>
-Decision Tree: 
-<br>
-
 
 
 # **ML Models from Scratch**
