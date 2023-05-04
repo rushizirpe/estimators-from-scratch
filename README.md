@@ -7,13 +7,19 @@ This project provides Python implementations of various machine learning models 
 So far, this project includes the following machine learning models:
 
 Linear Regression: Open in Colab->[![Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/32px-Google_Colaboratory_SVG_Logo.svg.png)](https://colab.research.google.com/drive/1hYe7LsNkZaODpGAQlEgLeCc5aBYSWrxo?usp=sharing)
+<br>
 Logistic Regression: 
+<br>
 Decision Trees: Open in Colab->[![Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/32px-Google_Colaboratory_SVG_Logo.svg.png)](https://colab.research.google.com/drive/17CN_GwgMRPQBNEDd-kvL2VVa_EeYBX2K?usp=sharing)
+<br>
 Naive Bayes: 
+<br>
 k-Nearest Neighbors: 
+<br>
 Support Vector Machines: 
+<br>
 Artificial Neural Networks: 
-
+<br>
 Stochastic Gradient Descent: Open in Colab->[![Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/32px-Google_Colaboratory_SVG_Logo.svg.png)](https://colab.research.google.com/drive/15qgScy7xpwhuWwLLBe0bDl--KLqJQjT6?usp=sharing)
 
 ## Usage
@@ -34,7 +40,7 @@ predictions = model.predict(X_test)
 ## Contributing
 Contributions to this project are welcome! If you notice a bug or would like to add a new model implementation, please create a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 
