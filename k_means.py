@@ -17,6 +17,30 @@ class KMeans:
         pass
 
     @staticmethod
+    def centroids_init(data, num_clusters):
+        """Initializes num_clusters centroids that are to be used in K-Means on the dataset X
+
+        :param data: training dataset.
+        :param num_clusters: number of cluster into which we want to break the dataset.
+        """
+
+        # Get number of training examples.
+        num_examples = data.shape[0]
+
+        # Randomly reorder indices of training examples.
+        random_ids = np.random.permutation(num_examples)
+
+        # Take the first K examples as centroids.
+        centroids = data[random_ids[:num_clusters], :]
+
+        # Return generated centroids.
+        return centroids
+
+    @staticmethod
+    def centroids_find_closest(data, centroids):
+        paass
+
+    @staticmethod
     def centroids_compute(data, closest_centroids_ids, num_clusters):
         """Compute new centroids.
 
