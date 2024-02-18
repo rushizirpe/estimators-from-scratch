@@ -1,10 +1,10 @@
 
 
 # **Estimators from Scratch**
-This project provides Python implementations of various Estimators from scratch, without relying on external libraries such as scikit-learn or TensorFlow. The purpose of this project is to help in understanding of how these models work under the hood.
+This project provides Python implementations of various estimators from scratch, without relying on external libraries such as scikit-learn. The purpose of this project is to understand how these models work under the hood.
 
 ## Estimators Implemented
-So far, this project includes the following machine learning models:
+So far, this project includes the following Estimator models:
 
 Linear Regression: Open in Colab->[![Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/32px-Google_Colaboratory_SVG_Logo.svg.png)](https://colab.research.google.com/drive/1hYe7LsNkZaODpGAQlEgLeCc5aBYSWrxo?usp=sharing)
 <br>
